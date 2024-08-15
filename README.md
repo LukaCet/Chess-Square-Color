@@ -3,8 +3,8 @@ Determine the color of a Chess Square, such as E4, F3, H6
 
 ## Understand the Chess Board:
 To help visualise the Chess Board:
-- (A proper Image of the Chess Board)[https://www.google.com/search?client=opera-gx&hs=Yy1&sca_esv=82f832aba91fe7d7&sxsrf=ADLYWILQRhdJhKhzcSPp2pPNeoQhytJdBw:1723737093065&q=chess.com+chessboard&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2joQcoZ-0Q2Udkt2zEybT7HdNV1kobqvEwEVRYBCltlBtQd5-pPeakpVgpgEn2RgmgzeZo15rltNMrDtoZe63sl46hHJXZmfPBeZdqdwrtlSxkvce3I&sa=X&ved=2ahUKEwiA5viIrfeHAxW1RaQEHeEWAc8QtKgLegQIEBAB&cshid=1723737099491164&biw=1495&bih=715&dpr=1.25#vhid=XdVW6qO-5PBNcM&vssid=mosaic]
-- (Understand the code)[https://github.com/LukaCet/Chess-Square-Color/blob/main/ChessCode.py]
+- [A proper Image of the Chess Board](https://www.google.com/search?client=opera-gx&hs=Yy1&sca_esv=82f832aba91fe7d7&sxsrf=ADLYWILQRhdJhKhzcSPp2pPNeoQhytJdBw:1723737093065&q=chess.com+chessboard&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2joQcoZ-0Q2Udkt2zEybT7HdNV1kobqvEwEVRYBCltlBtQd5-pPeakpVgpgEn2RgmgzeZo15rltNMrDtoZe63sl46hHJXZmfPBeZdqdwrtlSxkvce3I&sa=X&ved=2ahUKEwiA5viIrfeHAxW1RaQEHeEWAc8QtKgLegQIEBAB&cshid=1723737099491164&biw=1495&bih=715&dpr=1.25#vhid=XdVW6qO-5PBNcM&vssid=mosaic)
+- [Understand the code](https://github.com/LukaCet/Chess-Square-Color/blob/main/ChessCode.py)
 
 ## Explanation:
 
